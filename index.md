@@ -36,6 +36,6 @@ The README for this is available in a relative link [readme](README.md).
 - [ ] Do homework
 - [ ] Do homework
 - [x] Play minecraft until 4am
-
+:blush::blush::blush::blush::blush::blush:
 
 To finish, escape characters. Let's rename \*this\* to \*that\*.
