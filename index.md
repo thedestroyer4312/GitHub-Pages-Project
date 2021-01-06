@@ -10,6 +10,7 @@ Here are some pictures that I have found.
 ## This is heading 2
 ## This is heading 3
 ###### until this. you get the idea...
+[section link to heading 1](https://github.com/thedestroyer4312/GitHub-Pages-Project/blob/master/index.md#this-is-heading-1)
 
 Do I __program__? Sure I do. Here's a *snippet* of my latest ~~copy-paste from StackOverflow~~ entirely self-written code:
 ```
