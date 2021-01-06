@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Trevor Tsai's page
 
-You can use the [editor on GitHub](https://github.com/thedestroyer4312/GitHub-Pages-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some pictures that I have found.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![nature picture 1](https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg)
+![nature picture 2](https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg)
+![nature picture 3](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg)
 
-### Markdown
+# This is heading 1
+## This is heading 2
+## This is heading 3
+###### until this. you get the idea...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Do I __program__? Sure I do. Here's a *snippet* of my latest ~~copy-paste from StackOverflow~~ entirely self-written code:
+```
+while(low <= high){
+  int mid = (high - low / 2)
+  if(arr[mid] > val)
+  // do something here...
+  // you thought i knew binary search pseudocode by heart? nice try
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In the meantime, here's an inspirational quote: `whatever you are, be a good one` - Abraham Lincoln.
+If you're interested in programming, check out my other repositories at [https://github.com/thedestroyer4312](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-### Jekyll Themes
+The README for this is available in a relative link [readme](README.md).
+### List of the first three presidents
+1. George Washington
+    - cherry tree
+2. John Adams
+    - wasn't his son also president?
+3. Thomas Jefferson
+    - federalist papers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thedestroyer4312/GitHub-Pages-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### My to do list
+- [ ] Do homework
+- [ ] Do homework
+- [x] Play minecraft until 4am
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To finish, escape characters. Let's rename \*this\* to \*that\*.
